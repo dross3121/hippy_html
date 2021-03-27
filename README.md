@@ -1,4 +1,13 @@
-#Hippy Portfolio
+# Hippy Portfolio
+
+When you have fulfilled the requirements below, make a pull request on this
+repository to turn in your work.
+
+This homework is due Saturday 04/03 @ 9AM.
+
+### Prep for JavaScript Data Types
+
+Once you've completed the requirements, review this [short video](https://www.youtube.com/watch?time_continue=4&v=_r_LCMBvxmg&feature=emb_logo) on JavaScript Data Types so you're ready for the upcoming lectures.
 
 Your client, Spirit Dunkin, has hired you to build the site for her flower shop. She has provided a mockup, in addition to all the images she wants to include. Your jobs is to update the html and css in the starter code to match her design as closely as possible.
 
