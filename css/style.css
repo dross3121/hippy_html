@@ -48,10 +48,10 @@ img {
 footer {
 	background-color: tomato;
 	border-width: 50px solid;
-	float:right;
-	padding: 0 0 0 55rem;
+	text-align: right;
+	height: 50px;
+	margin-top: 10px;
 }
-
 
 .footerpics{
 	display: flex;
